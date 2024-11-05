@@ -62,7 +62,8 @@ int main()
 }
 ```
 ## Output:
-![Screenshot 2024-10-16 151917](https://github.com/user-attachments/assets/cc823763-d18f-4fae-9f10-bade8d8c81f0)
+
+![image](https://github.com/user-attachments/assets/c2611869-5b3c-4d69-8fc3-a6432862136d)
 
 ## Result:
 The program for AES algorithm is executed sucessfully.
